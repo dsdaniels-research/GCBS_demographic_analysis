@@ -17,3 +17,6 @@
 # 3. Relative importance analysis (dominance analysis)
 # 4. Comprehensive assumption checking
 # 5. Robustness testing across subgroups
+
+# DATA SOURCE: Open Psychometrics GCBS dataset (2016)
+# Sample: Adults who completed online GCBS and agreed to research participation
