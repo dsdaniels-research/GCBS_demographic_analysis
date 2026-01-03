@@ -10,3 +10,10 @@
 # - Uscinski & Parent's political conspiracy theory
 # - Psychological needs approaches (uncertainty, control)
 # - Existential psychology (Frankl, Fromm)
+
+# KEY ANALYTICAL FEATURES:
+# 1. Hierarchical multiple regression (4 blocks)
+# 2. Suppression effects detection and interpretation
+# 3. Relative importance analysis (dominance analysis)
+# 4. Comprehensive assumption checking
+# 5. Robustness testing across subgroups
